@@ -1,0 +1,44 @@
+.frame2-container {
+  min-height: 100vh;
+}
+.frame2-frame2 {
+  width: 244px;
+  height: 45.7496223449707px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.frame2-group57 {
+  top: 0px;
+  left: 0px;
+  width: 244px;
+  height: 45.7496223449707px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.frame2-layer1000 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 46px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.frame2-group2 {
+  top: 11.437485694885254px;
+  left: 61.000083923339844px;
+  width: 183px;
+  height: 23px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}

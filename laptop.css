@@ -1,0 +1,28 @@
+.laptop-container {
+  min-height: 100vh;
+}
+.laptop-laptop {
+  width: 810px;
+  height: 810px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.laptop-svg {
+  width: 810;
+  height: 810;
+  position: absolute;
+}
+.laptop-b-gtrans21 {
+  top: -83px;
+  left: -574px;
+  width: 446px;
+  height: 337px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}

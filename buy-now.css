@@ -1,0 +1,55 @@
+.buy-now-container {
+  min-height: 100vh;
+}
+.buy-now-buy-now {
+  width: 271px;
+  height: 78px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.buy-now-rectangle2284 {
+  top: 7px;
+  left: 14px;
+  width: 244px;
+  height: 64px;
+  position: absolute;
+  box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 73px;
+  background-color: rgba(6, 68, 148, 1);
+}
+.buy-now-rectangle2285 {
+  top: 7px;
+  left: 0px;
+  width: 39px;
+  height: 64px;
+  opacity: 0.00;
+  position: absolute;
+  box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 73px;
+  background-color: rgba(255, 255, 255, 0.10000000149011612);
+}
+.buy-now-text {
+  top: 21px;
+  left: 84px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
